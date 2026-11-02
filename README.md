@@ -5,8 +5,8 @@ Uses a 3-pointer linear merge in O(n1 + n2 + n3) time complexity without using a
 
 How to Setup, Execute Code, and Run Unit Tests:
 1. Clone the repository:
-   git clone https://github.com/Nuttapong-Jinda/merge-sort-test.git
-   cd merge-sort-test
+   -git clone https://github.com/Nuttapong-Jinda/merge-sort-test.git
+   -cd merge-sort-test
 
 2. Install dependencies:
    npm install
